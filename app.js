@@ -66,7 +66,7 @@ function reiniciarJogo() {
 }
 
 
-
+console.log("testando");
 
 
 
